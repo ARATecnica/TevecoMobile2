@@ -47691,7 +47691,7 @@ angular.module('mm.core')
     "app_id" : "com.tecnichedivendita.tevecomobile",
     "appname": "Teveco Mobile",
     "versioncode" : "2016",
-    "versionname" : "1.0.6",
+    "versionname" : "1.0.7",
     "cache_expiration_time" : 300000,
     "default_lang" : "it",
     "languages": {"ar": "عربي", "bg": "Български", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch","en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "فارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "pt": "Português - Portugal", "ro": "Română", "ru": "Русский", "sv": "Svenska", "tr" : "Türkçe", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
