@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.tecnichedivendita.tevecomobile"
         versionCode = "20160"
-        version   = "1.0.7">
+        version   = "1.0.8">
     <name>Teveco Mobile</name>
 
     <description>
