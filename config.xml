@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.tecnichedivendita.tevecomobile"
         versionCode = "20170"
-        version   = "1.0.9">
+        version   = "1.0.10">
     <name>Teveco Mobile</name>
 
     <description>
@@ -126,7 +126,7 @@
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
 
     <gap:plugin name="phonegap-plugin-push" source="npm" version="1.7.0">
-        <param name="SENDER_ID" value="399828234124" />
+        <param name="SENDER_ID" value="1:399828234124:android:e505cb9ab2187470" />
     </gap:plugin>
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
         <param name="URL_SCHEME" value="moodlemobile" />
