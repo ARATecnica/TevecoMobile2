@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.tecnichedivendita.tevecomobile"
-        versionCode = "20170"
-        version   = "1.0.11">
+        versionCode = "20171"
+        version   = "1.0.12">
     <name>Teveco Mobile</name>
 
     <description>
